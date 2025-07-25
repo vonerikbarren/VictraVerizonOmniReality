@@ -1,0 +1,84 @@
+{
+  "verizonShortcutPhrases": {
+    "BOP": {
+      "meaning": "Business or Personal",
+      "usage": "Used to classify account type during activation or upgrade"
+    },
+    "AAL": {
+      "meaning": "Add A Line",
+      "usage": "Refers to adding a new line to an existing account"
+    },
+    "BYOD": {
+      "meaning": "Bring Your Own Device",
+      "usage": "Customer activates service on a device they already own"
+    },
+    "DPP": {
+      "meaning": "Device Payment Plan",
+      "usage": "Monthly installment plan for purchasing devices"
+    },
+    "COIP": {
+      "meaning": "Customer Owned IP",
+      "usage": "Used for business accounts with customer-managed IP services"
+    },
+    "MDN": {
+      "meaning": "Mobile Directory Number",
+      "usage": "The actual phone number assigned to a line"
+    },
+    "IMEI": {
+      "meaning": "International Mobile Equipment Identity",
+      "usage": "Unique identifier for a mobile device"
+    },
+    "SIM": {
+      "meaning": "Subscriber Identity Module",
+      "usage": "Chip that connects device to Verizon’s network"
+    },
+    "eSIM": {
+      "meaning": "Embedded SIM",
+      "usage": "Digital SIM used for activation without physical card"
+    },
+    "FWA": {
+      "meaning": "Fixed Wireless Access",
+      "usage": "Home internet delivered via Verizon’s wireless network"
+    },
+    "RQ": {
+      "meaning": "Retail Quotient",
+      "usage": "Verizon’s point-of-sale system used in stores"
+    },
+    "RTG": {
+      "meaning": "Ready To Go",
+      "usage": "Activation and setup tool for new devices"
+    },
+    "RIS": {
+      "meaning": "Retail Information System",
+      "usage": "Used for customer education and product info"
+    },
+    "B360": {
+      "meaning": "Business 360",
+      "usage": "Rugged laptop certified for Verizon’s network"
+    },
+    "VMIS": {
+      "meaning": "Verizon Mobile Internet Security",
+      "usage": "Security add-on for business mobile lines"
+    },
+    "VZP": {
+      "meaning": "Verizon Protection",
+      "usage": "Device insurance and support bundle"
+    },
+    "TAC": {
+      "meaning": "Type Allocation Code",
+      "usage": "First 8 digits of IMEI used to identify device model"
+    },
+    "ODC": {
+      "meaning": "Open Development Certified",
+      "usage": "Device approved for Verizon’s network via open dev program"
+    },
+    "RQ_INV": {
+      "meaning": "RQ Invoice Number",
+      "usage": "Unique transaction ID from point-of-sale system"
+    },
+    "GAS": {
+      "meaning": "Guest Archetype Script",
+      "usage": "Symbolic pitch loop used in customer engagement"
+    }
+  }
+}

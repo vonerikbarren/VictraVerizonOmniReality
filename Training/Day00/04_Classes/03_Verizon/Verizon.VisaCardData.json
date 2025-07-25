@@ -1,0 +1,103 @@
+{
+  "verizon_visa_card": {
+    "issuer": "Synchrony Bank",
+    "card_type": "Visa Signature®",
+    "eligibility": {
+      "wireless": "Account Owner or Manager with up to 12 phone lines",
+      "fios": "Account Owner with at least one active Fios service",
+      "exclusions": [
+        "Business accounts",
+        "Prepaid accounts"
+      ]
+    },
+
+    "rewards_program": {
+      "verizon_dollars": {
+        "4_percent": [
+          "Grocery stores",
+          "Gas stations",
+          "EV charging",
+          "Dining",
+          "Verizon purchases (excluding bill payments)"
+        ],
+        "1_percent": [
+          "Verizon bill payments",
+          "All other purchases"
+        ],
+        "no_expiration": true,
+        "no_earning_limits": true
+      }
+    },
+
+    "redemption_options": {
+      "verizon_bill": "Apply Verizon Dollars toward monthly wireless or Fios bills",
+      "devices_accessories": "Use rewards for phones, headphones, smartwatches, gaming gear",
+      "gift_cards": "Redeem for merchant gift cards",
+      "travel": "Book travel through Verizon rewards portal"
+    },
+
+    "fees_and_rates": {
+      "annual_fee": "None",
+      "purchase_apr": [
+        "22.99%",
+        "27.99%",
+        "33.99%"
+      ],
+      "penalty_apr": [
+        "32.99%",
+        "37.99%",
+        "39.99%"
+      ],
+      "cash_apr": [
+        "27.24%",
+        "32.24%",
+        "38.24%"
+      ],
+      "balance_transfer_apr": [
+        "22.99%",
+        "27.99%",
+        "33.99%"
+      ],
+      "minimum_interest_charge": "$2",
+      "transaction_fee": "5% ($10 minimum)"
+    },
+
+    "promotions": {
+      "new_card_offer": {
+        "first_purchase_credit": "$50",
+        "spend_threshold_credit": "$100 for $1500 spent in 90 days",
+        "total_cash_back": "$150",
+        "valid_through": "Subject to change"
+      },
+      "accessory_financing": {
+        "terms": "0% APR for 12 months on purchases $100+",
+        "availability": "Verizon-operated stores and online"
+      }
+    },
+
+    "management_tools": {
+      "dashboard": [
+        "My Verizon app",
+        "Synchrony website",
+        "Verizon Visa Card app"
+      ],
+      "features": [
+        "View rewards",
+        "Pay bill",
+        "Track transactions",
+        "Set Auto Pay"
+      ]
+    },
+    "digital_wallets": [
+      "Apple Pay",
+      "Google Pay",
+      "Samsung Pay"
+    ],
+    "symbolic_triggers": {
+      "contactless_payment": "Tap-enabled terminals with EMVCo symbol",
+      "auto_redeem": "Set Verizon Dollars to auto-apply to monthly bills",
+      "mobile_plus_home_discount": "Up to $20/month off with combined services"
+    }
+    
+  }
+}

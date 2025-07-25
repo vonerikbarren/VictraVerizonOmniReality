@@ -1,0 +1,153 @@
+{
+  "consultantSupportSystems": {
+    "OperationalTools": {
+      "ProjectManagement": [
+        "ClickUp",
+        "Asana",
+        "Monday.com",
+        "Wrike"
+      ],
+      "TimeTracking": [
+        "Harvest",
+        "Toggl",
+        "Clockify",
+        "BigTime"
+      ],
+      "CRM": [
+        "HubSpot",
+        "Zoho",
+        "Capsule",
+        "Pipedrive"
+      ],
+      "BillingInvoicing": [
+        "QuickBooks",
+        "FreshBooks",
+        "Xero",
+        "Wave"
+      ],
+      "symbolicNode": "Execution Grid"
+    },
+
+
+    "ClientEngagement": {
+      "ProposalSoftware": [
+        "PandaDoc",
+        "Proposify",
+        "Better Proposals"
+      ],
+      "Communication": [
+        "Zoom",
+        "Slack",
+        "Microsoft Teams",
+        "Loom"
+      ],
+      "FeedbackTools": [
+        "Boast.io",
+        "SurveyMonkey",
+        "Typeform"
+      ],
+      "symbolicNode": "Connection Loop"
+    },
+
+
+
+    "KnowledgeSystems": {
+      "NoteTaking": [
+        "Notion",
+        "Evernote",
+        "Obsidian",
+        "Roam Research"
+      ],
+      "DocumentManagement": [
+        "Google Workspace",
+        "Dropbox",
+        "OneDrive"
+      ],
+      "ResearchTools": [
+        "Statista",
+        "IBISWorld",
+        "Google Scholar"
+      ],
+      "symbolicNode": "Cognition Layer"
+    },
+
+
+
+    "MarketingAndSales": {
+      "EmailMarketing": [
+        "Mailchimp",
+        "ConvertKit",
+        "Keap"
+      ],
+      "LeadGen": [
+        "Sumo",
+        "LinkedIn Sales Navigator",
+        "Skrapp.io"
+      ],
+      "Funnels": [
+        "ClickFunnels",
+        "ThriveCart"
+      ],
+      "symbolicNode": "Growth Thread"
+    },
+
+
+
+    "AutomationAndAI": {
+      "WorkflowAutomation": [
+        "Zapier",
+        "Make.com",
+        "Trainual"
+      ],
+      "AIWriting": [
+        "Jasper",
+        "Copilot",
+        "ClickUp AI"
+      ],
+      "SpeechToText": [
+        "Dragon",
+        "Otter.ai"
+      ],
+      "symbolicNode": "Efficiency Pulse"
+    },
+
+
+
+    "EmotionalSupport": {
+      "MindfulnessApps": [
+        "Headspace",
+        "Calm",
+        "Insight Timer"
+      ],
+      "PeerNetworks": [
+        "Consulting Success",
+        "Clarity Coaching",
+        "LinkedIn Groups"
+      ],
+      "symbolicNode": "Resonance Core"
+    },
+
+
+
+    "ScalingAndStrategy": {
+      "ForecastingTools": [
+        "Kantata",
+        "Microsoft Excel",
+        "ClickUp Dashboards"
+      ],
+      "HiringPlatforms": [
+        "Upwork",
+        "Fiverr",
+        "Toptal"
+      ],
+      "BusinessModeling": [
+        "Lucidchart",
+        "Bizagi",
+        "Miro"
+      ],
+      "symbolicNode": "Expansion Grid"
+    }
+
+    
+  }
+}

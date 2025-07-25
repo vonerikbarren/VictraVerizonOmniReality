@@ -1,0 +1,106 @@
+{
+  "verizonProductsAndServices": {
+    "WirelessPlans": {
+      "UnlimitedWelcome": {
+        "price": "$65/month",
+        "features": ["Nationwide 5G", "No premium data", "Add-on perks available"],
+        "symbolicNode": "Entry Thread"
+      },
+      "UnlimitedPlus": {
+        "price": "$80/month",
+        "features": ["Premium data", "Ultra Wideband 5G", "30GB hotspot", "Perks add-on"],
+        "symbolicNode": "Surge Core"
+      },
+      "UnlimitedUltimate": {
+        "price": "$90/month",
+        "features": ["Priority premium data", "60GB+ hotspot", "International TravelPass", "Disney+ or Apple One included"],
+        "symbolicNode": "Signal Apex"
+      }
+    },
+
+
+    "ConnectedDevices": {
+      "Tablets": {
+        "models": ["iPad", "Galaxy Tab", "Pixel Tablet"],
+        "dataPlan": "$10–$20/month"
+      },
+      "Smartwatches": {
+        "models": ["Apple Watch", "Galaxy Watch"],
+        "dataPlan": "$10/month"
+      },
+      "Hotspots": {
+        "models": ["Jetpack", "In-Car Wi-Fi"],
+        "dataPlan": "$20–$30/month"
+      },
+      "symbolicNode": "Peripheral Grid"
+    },
+
+
+    "HomeInternet": {
+      "5GHome": {
+        "price": "$60/month",
+        "bundlePrice": "$35/month with mobile plan",
+        "features": ["No annual contracts", "Self-install", "Bundle discounts"],
+        "symbolicNode": "Home Signal"
+      },
+      "LTEHome": {
+        "price": "$50/month",
+        "features": ["Rural coverage", "Unlimited data", "No data caps"],
+        "symbolicNode": "Extended Loop"
+      },
+      "Fios": {
+        "plans": {
+          "300Mbps": "$49.99/month",
+          "500Mbps": "$74.99/month",
+          "1Gig": "$89.99/month",
+          "2Gig": "$109.99/month (limited availability)"
+        },
+        "symbolicNode": "Fiber Thread"
+      }
+    },
+
+
+    "AppsAndServices": {
+      "VerizonCloud": {
+        "price": "$5–$15/month",
+        "features": ["Secure backup", "Photos, videos, contacts"]
+      },
+      "CallFilter": {
+        "price": "$3/month",
+        "features": ["Spam blocking", "Caller ID"]
+      },
+      "SmartFamily": {
+        "price": "$4.99–$9.99/month",
+        "features": ["Parental controls", "Location tracking"]
+      },
+      "MyVerizonApp": {
+        "price": "Free",
+        "features": ["Bill pay", "Usage tracking", "Plan management"]
+      },
+      "symbolicNode": "Control Layer"
+    },
+
+    
+    "EntertainmentPerks": {
+      "YouTubePremium": "$10/month",
+      "DisneyBundle": "Included with Ultimate Plan",
+      "AppleMusic": "$10/month or perk",
+      "Netflix": "$10/month via +play",
+      "AppleOne": "$15/month",
+      "symbolicNode": "Stream Loop"
+    },
+    "SecurityAndSupport": {
+      "DeviceProtection": "$14–$17/month",
+      "DigitalSecure": "$10/month",
+      "RoadsideAssistance": "$4/month",
+      "TechCoach": "$7/month",
+      "symbolicNode": "Safety Grid"
+    },
+    "BusinessSolutions": {
+      "OneTalk": "$25/month per line",
+      "ContactCenterHub": "$50–$100/month",
+      "EnterpriseVoIP": "Custom pricing",
+      "symbolicNode": "System Core"
+    }
+  }
+}

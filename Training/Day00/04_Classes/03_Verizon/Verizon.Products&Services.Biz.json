@@ -1,0 +1,144 @@
+{
+  "verizonBusinessSolutions": {
+    
+    
+    "MobileDevicesAndPlans": {
+      "BusinessUnlimitedStart": {
+        "price": "$30/line/month (4+ lines)",
+        "features": ["Unlimited talk, text, data", "5G Nationwide", "Basic mobile hotspot"],
+        "symbolicNode": "Mobility Thread"
+      },
+
+      "BusinessUnlimitedPlus": {
+        "price": "$40/line/month (4+ lines)",
+        "features": ["Premium data", "5G Ultra Wideband", "Mobile hotspot included"],
+        "symbolicNode": "Bandwidth Core"
+      },
+      
+      "BusinessUnlimitedPro": {
+        "price": "$50/line/month (4+ lines)",
+        "features": ["Priority data", "60GB hotspot", "International perks"],
+        "symbolicNode": "Global Apex"
+      }
+    },
+
+    
+    "InternetSolutions": {
+
+      "FiosBusinessInternet": {
+        "plans": {
+          "300Mbps": "$69/month",
+          "500Mbps": "$99/month",
+          "1Gig": "$129/month"
+        },
+        "symbolicNode": "Fiber Grid"
+      },
+
+      "5GBusinessInternet": {
+        "price": "$69/month",
+        "features": ["Wireless setup", "Unlimited data", "Rapid deployment"],
+        "symbolicNode": "Signal Loop"
+      },
+
+      "LTEBusinessInternet": {
+        "price": "$59/month",
+        "features": ["Rural coverage", "Failover support", "Portable setup"],
+        "symbolicNode": "Extended Reach"
+      },
+
+      "DedicatedInternet": {
+        "price": "Custom pricing",
+        "features": ["SLAs", "Symmetrical speeds", "QoS guarantees"],
+        "symbolicNode": "Priority Thread"
+      }
+    },
+
+
+    
+    "VoiceAndCollaboration": {
+      "OneTalk": {
+        "price": "$25/month per line",
+        "features": ["Unified business number", "Mobile + desk phone integration"],
+        "symbolicNode": "Unified Voice"
+      },
+      "MicrosoftTeamsCalling": {
+        "price": "$15/month",
+        "features": ["External calling", "Teams integration"],
+        "symbolicNode": "Collab Layer"
+      },
+      "BusinessDigitalVoice": {
+        "price": "$35/month",
+        "features": ["VoIP", "Auto attendant", "Call forwarding"],
+        "symbolicNode": "Signal Mesh"
+      }
+    },
+
+
+    
+    "SecurityAndNetwork": {
+      "ManagedSecurity": {
+        "price": "Starts at $99/month",
+        "features": ["Threat detection", "Firewall management", "24/7 monitoring"],
+        "symbolicNode": "Shield Grid"
+      },
+      "SDWAN": {
+        "price": "Custom pricing",
+        "features": ["Dynamic routing", "Bandwidth optimization", "Cloud-ready"],
+        "symbolicNode": "Flow Core"
+      },
+      "PrivateWirelessNetwork": {
+        "price": "Custom pricing",
+        "features": ["On-prem LTE/5G", "Secure access", "Low latency"],
+        "symbolicNode": "Local Signal"
+      }
+    },
+
+
+    
+    "IoTAndEdge": {
+      "ThingSpacePlatform": {
+        "price": "Varies by device",
+        "features": ["Device activation", "Monitoring", "APIs"],
+        "symbolicNode": "Sensor Thread"
+      },
+      "FleetManagement": {
+        "price": "$23/month per vehicle",
+        "features": ["GPS tracking", "Driver behavior", "Maintenance alerts"],
+        "symbolicNode": "Motion Grid"
+      },
+      "5GEdge": {
+        "price": "Custom pricing",
+        "features": ["Edge computing", "Real-time analytics", "Low latency"],
+        "symbolicNode": "Compute Loop"
+      }
+    },
+
+
+    
+    "ContactCenterAndCX": {
+      "ContactCenterHub": {
+        "price": "$50–$100/month",
+        "features": ["Call routing", "Analytics", "Agent coaching"],
+        "symbolicNode": "CX Core"
+      },
+      "VirtualContactCenter": {
+        "price": "Custom pricing",
+        "features": ["Cloud-based", "Omnichannel support", "AI integrations"],
+        "symbolicNode": "Engagement Mesh"
+      }
+    },
+
+
+    
+    "SoftwareMarketplace": {
+      "GoogleWorkspace": "$6–$18/user/month",
+      "Microsoft365": "$6–$22/user/month",
+      "QuickBooks": "$30–$90/month",
+      "HelcimPayments": "Custom pricing",
+      "symbolicNode": "Tool Layer"
+    }
+
+    
+
+  }
+}

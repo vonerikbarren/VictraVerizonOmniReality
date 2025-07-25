@@ -1,0 +1,62 @@
+{
+  "verizonPromotions": {
+
+    "DeviceDeals": {
+      "FreePhones": [
+        "iPhone 16 Pro Max (Unlimited Ultimate, no trade-in)",
+        "Galaxy S25 Ultra (Unlimited Ultimate, no trade-in)",
+        "Pixel 9 Pro XL (Unlimited Ultimate, no trade-in)"
+      ],
+      "TradeInOffers": {
+        "iPhone16": "Up to $830 off with trade-in",
+        "GalaxyZFlip7": "Up to $1,100 off with trade-in",
+        "Pixel9": "Free with trade-in + Unlimited plan"
+      },
+      "BOGO": [
+        "Buy one Galaxy Z Fold 7, get second $1,100 off"
+      ],
+      "SymbolicNode": "Device Surge"
+    },
+
+
+    "AccessoryBundles": {
+      "FreeAddOns": [
+        "Apple Watch + iPad with iPhone 16 Pro",
+        "Galaxy Watch + Tab S9 FE with Galaxy S25 Ultra"
+      ],
+      "Discounts": [
+        "Up to 50% off select accessories",
+        "$400 credit on Samsung tech with Home Internet"
+      ],
+      "SymbolicNode": "Bundle Bloom"
+    },
+
+
+    "PlanPromos": {
+      "MultiLineSavings": {
+        "Switch4Lines": "$25/line/month",
+        "AddSecondLine": "$15/month"
+      },
+      "StudentDiscount": "Up to $25/month off",
+      "PriceGuarantee": "3-year price lock on all plans",
+      "SymbolicNode": "Plan Prism"
+    },
+
+
+    "SwitchIncentives": {
+      "BYODCredit": "$540 promo credit over 36 months",
+      "GiftCardBonus": "$300 Verizon gift card with new line",
+      "SymbolicNode": "Port Pulse"
+    },
+
+
+    "SeasonalCampaigns": {
+      "RedHotDealDays": [
+        "Free phones, accessories, and streaming perks",
+        "Home Internet + Mobile bundles"
+      ],
+      "SymbolicNode": "Summer Signal"
+    }
+    
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "activation_overview": {
+    "definition": "Activation is the process of registering a device to work on Verizon's network by linking its IMEI and SIM to a customer account.",
+    "importance": [
+      "Enables calls, texts, and data services",
+      "Synchronizes device with account for billing and updates",
+      "Unlocks Verizon-exclusive features like HD Voice and Visual Voicemail"
+    ]
+  },
+
+
+  "activation_methods": {
+    "online": {
+      "steps": [
+        "Sign in at Verizon.com",
+        "Navigate to 'Manage all devices'",
+        "Select 'Activate or Switch Device'",
+        "Enter IMEI and SIM ID",
+        "Confirm changes and restart device"
+      ]
+    },
+    
+    "my_verizon_app": {
+      "steps": [
+        "Download and open My Verizon app",
+        "Sign in to your account",
+        "Tap 'Devices' > 'Activate or Switch Device'",
+        "Enter IMEI and follow prompts"
+      ]
+    },
+    "phone_call": {
+      "number": "(877) 807-4646",
+      "instructions": "Call and follow automated prompts or speak to a representative"
+    },
+    "in_store": {
+      "description": "Visit a Verizon store with your device and SIM card for in-person activation"
+    }
+  },
+
+  "requirements": {
+    "device": "New or compatible unlocked phone",
+    "imei": "Unique identifier found in settings or by dialing *#06#",
+    "sim_card": "Verizon SIM card, properly inserted",
+    "account_info": [
+      "Verizon username and password",
+      "Account PIN or last 4 digits of SSN"
+    ],
+    "internet": "Stable Wi-Fi or mobile data connection"
+  },
+
+  "activation_tips": {
+    "backup_data": "Use Verizon Cloud or external storage to save old phone data",
+    "charge_device": "Ensure battery is at least 50%",
+    "check_compatibility": "Verify device works with Verizon network",
+    "disable_imessage": "Turn off iMessage when switching from iPhone to Android",
+    "restart_device": "Power cycle after activation to finalize setup"
+  },
+  
+  "troubleshooting": {
+    "invalid_imei": "Double-check number and ensure device isn't blacklisted",
+    "sim_errors": "Inspect SIM for damage and proper orientation",
+    "network_issues": "Move to area with better signal or try Wi-Fi",
+    "account_mismatch": "Verify correct login credentials and billing zip code",
+    "support": "Contact Verizon customer service or visit a store"
+  },
+
+  "fees_and_policies": {
+    "activation_fee": "Typically $30 for new lines; may be waived for upgrades",
+    "contract_terms": ["Month-to-month", "Two-year agreements"],
+    "cancellation": "Requires contacting Verizon support"
+  },
+
+  "additional_features": {
+    "verizon_cloud": "Backup service for contacts, photos, and media",
+    "visual_voicemail": "Enhanced voicemail management",
+    "device_protection": "Optional insurance and warranty plans"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "discoveryCategories": {
+    "carrierDetails": [
+      "currentCarrier",
+      "monthlyCost",
+      "contractStatus",
+      "devicePaymentRemaining"
+    ],
+    "dataProfile": [
+      "monthlyDataUsage",
+      "hotspotUsage",
+      "streamingHabits",
+      "videoQualityPreference"
+    ],
+    "deviceNeeds": [
+      "upgradeIntent",
+      "tradeInEligibility",
+      "deviceTypePreference",
+      "connectedDeviceInterest"
+    ],
+    "lifestyleAlignment": [
+      "dailyAppsUsed",
+      "perkPreference",
+      "entertainmentSubscriptions",
+      "familySharingNeeds"
+    ],
+    "networkPerformance": [
+      "signalStrength",
+      "travelCoverage",
+      "congestionIssues",
+      "internationalUsage"
+    ],
+    "financialSensitivity": [
+      "budgetCeiling",
+      "valueTriggers",
+      "bundleTolerance",
+      "promotionInterest"
+    ],
+    "accountManagement": [
+      "lineOwnership",
+      "multiLineCoordination",
+      "billingPreferences",
+      "customerServiceExperience"
+    ],
+    "emotionalTriggers": [
+      "frustrationsWithCurrentCarrier",
+      "securityConcerns",
+      "connectivityReliability",
+      "upgradeAspirations"
+    ]
+  }
+}

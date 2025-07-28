@@ -1,0 +1,34 @@
+{
+  "attentionGetters": {
+    "contextShock": [
+      "carrierPolicyChanges",
+      "dataUsageSurgeStories",
+      "networkThrottlingReveals",
+      "hiddenFeeExpose"
+    ],
+    "symbolicTriggers": [
+      "techAsIdentity",
+      "connectionAsBelonging",
+      "upgradeAsRenewal",
+      "signalAsTrust"
+    ],
+    "empathyConnectors": [
+      "longWaitTimes",
+      "billingConfusion",
+      "lostConnectionAt ImportantMoment",
+      "deviceFatigue"
+    ],
+    "culturalRelevance": [
+      "holidayUpgradeTiming",
+      "studentOrParentCycles",
+      "remoteWorkShifts",
+      "popularAppBehavior"
+    ],
+    "contrastFrames": [
+      "whatYourPlanDoesn’tTellYou",
+      "newUsersVsLegacyExperience",
+      "premiumServicesForLess",
+      "coverageMapRealityVsBrochure"
+    ]
+  }
+}

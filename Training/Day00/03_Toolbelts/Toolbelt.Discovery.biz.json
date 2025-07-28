@@ -1,0 +1,40 @@
+{
+  "earningDrivers": {
+    "planUpgradeOpportunities": [
+      "dataOverages",
+      "streamingNeedsBeyondCurrentPlan",
+      "premiumServiceInterest",
+      "securityBundleOptions"
+    ],
+    "accessoryTriggers": [
+      "chargingNeeds",
+      "caseOrProtectionInterest",
+      "audioGearUsage",
+      "smartwatchCompatibility"
+    ],
+    "referralAmplification": [
+      "familyOrTeamExpansion",
+      "networkInfluencerType",
+      "pastReferralSuccess",
+      "rewardProgramInterest"
+    ],
+    "multiLineStrategizing": [
+      "lineAdditionPotential",
+      "lineConsolidationNeeds",
+      "sharedDataUpgrades",
+      "deviceMixMatching"
+    ],
+    "insuranceAndProtection": [
+      "deviceLossHistory",
+      "repairConcerns",
+      "coverageAwareness",
+      "tradeInAssuranceInterest"
+    ],
+    "financeAndInstallments": [
+      "earlyUpgradeCuriosity",
+      "installmentPlanInterest",
+      "monthlyBudgetFlexibility",
+      "promotionStacking"
+    ]
+  }
+}

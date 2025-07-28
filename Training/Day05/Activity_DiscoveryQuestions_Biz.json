@@ -1,0 +1,30 @@
+{
+  "businessDiscoveryQuestions": {
+    "forOwnerOrDecisionMaker": [
+      "Is mobile communication mostly about staying connected with clients, your team, or both?",
+
+      "Would you say your business thrives more with reliable service or flexible tools like remote conferencing?",
+
+      "Are you the one managing the phones and plans—or is it part of a broader operational flow?",
+      "Have you ever thought about turning your phone system into a smarter business tool, like OneTalk or virtual lines?",
+      
+      "Do you need multiple devices across your team, or are you more solo with high-function mobile needs?"
+    ],
+
+    "forOperations or Team Lead": [
+      "Are team devices mostly for coordination, logistics, or client interaction?",
+      "Do you use any hotspot or mobile data setups when working outside the office?",
+      "Would something like a fleet management system help streamline how your devices operate?",
+      "Are you looking for reliability in coverage—or tools to help your team move faster and smarter?",
+      "Is scalability something you're planning for in your mobile setup, or are you keeping things tight and tactical?"
+    ],
+
+    "universalBusiness": [
+      "When it comes to your current provider—what's working well, and what feels like a bottleneck?",
+      "If you could solve one tech issue for your business this week, what would it be?",
+      "Do you prefer plans that scale with your growth, or ones that stay lean and predictable?",
+      "Are any employees sharing devices, or would separate lines serve better day-to-day?",
+      "If you had a more efficient mobile system, how would that help your business grow or simplify?"
+    ]
+  }
+}

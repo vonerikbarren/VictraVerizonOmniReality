@@ -1,0 +1,39 @@
+{
+  "discoveryQuestions": {
+    "forCustomer": [
+      "How do you like your mobile setup—more powerful for productivity or more chill for streaming?",
+
+      "Would you say Apple perks sweeten the deal, or is hotspot data your ride-or-die feature?",
+
+      "When you’re switching carriers, are you thinking tech upgrades or long-term value?",
+      
+      "What apps or features do you use daily that you'd want working flawlessly out of the box?",
+
+      "Do you ever work remotely or travel for business—or is mobile muscle mostly for personal flow?"
+    ],
+    
+    "forWife": [
+      "When it comes to your phone, is staying connected with loved ones the top priority?",
+
+      "Would a bundled service like Disney+ be a fun bonus or an everyday essential?",
+
+      "Do you usually upgrade together with your partner, or are you scouting for your own vibe?",
+
+      "Is texting and talking where it’s at for you, or are you thinking about data and streaming too?",
+
+      "Are you looking for a phone experience that feels simple and reliable, or something with a little extra sparkle?"
+    ],
+
+    "universal": [
+      "If you could design your perfect phone plan from scratch, what’s one feature it absolutely needs?",
+
+      "What do you wish your current carrier did better—speed, perks, support?",
+      
+      "Do you like having one central account to manage everything, or do you prefer keeping lines separate?",
+
+      "What’s your idea of great mobile service—flexibility, reliability, or something a little smarter?",
+
+      "Are you team bundle-and-save, or do you like to keep each feature modular and custom?"
+    ]
+  }
+}

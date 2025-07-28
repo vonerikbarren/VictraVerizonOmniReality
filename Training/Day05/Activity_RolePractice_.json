@@ -1,0 +1,135 @@
+{
+    
+  "interactionContext": {
+    "location": "Staples Print Center",
+    "representative": "Von’Erik",
+    "customerIntent": "Switching from T-Mobile to Verizon",
+    "linesRequested": 2,
+    "devicesRequested": ["iPhone Upgrade", "iPhone Upgrade"]
+  },
+
+  "beginningPitch": "Hey there—welcome to the Staples Print Center. Im VonErik, your Verizon systems specialist. Whether you're printing, upgrading, or optimizing your tech setup, I can walk you through every solution like second nature. Are we thinking business, personal, or both today?",
+
+  "customerProfiles": [
+    {
+      "name": "Customer",
+      "usage": ["Streaming TV", "Work Meetings", "Mobile Productivity"],
+      "currentPlan": "T-Mobile",
+      "desiredUpgrade": "iPhone",
+      "perksInterest": ["AppleOne", "Hotspot Access"],
+      "discountDetails": {
+        "discountEligible": true,
+        "discountType": "iPhone Trade-In Promo",
+        "discountAmount": "$830",
+        "finalDeviceCost": "$0 (after monthly bill credits)"
+      }
+    },
+    {
+      "name": "Wife",
+      "usage": ["Talk", "Text", "Keeping up with Friends & Family"],
+      "currentPlan": "T-Mobile",
+      "desiredUpgrade": "iPhone",
+      "perksInterest": ["Disney+", "AppleOne"],
+      "discountDetails": {
+        "discountEligible": true,
+        "discountType": "iPhone Trade-In Promo",
+        "discountAmount": "$830",
+        "finalDeviceCost": "$0 (after monthly bill credits)"
+      }
+    }
+  ],
+
+  
+  "recommendedPlan": {
+    "name": "One Unlimited for iPhone",
+    "estimatedCost": "$150/month with AutoPay",
+    "perksIncluded": [
+      "Apple Music",
+      "Apple TV+",
+      "Apple Arcade",
+      "iCloud+ (200GB)",
+      "5G Ultra Wideband",
+      "25GB Hotspot per line"
+    ]
+  },
+
+  "upgradeDetails": {
+    "tradeInEligible": true,
+    "promotionValue": "Up to $830 per line",
+    "activationMethod": ["eSIM", "Physical SIM"]
+  },
+
+  "additionalBenefits": [
+    "50% off Apple Watch or iPad line",
+    "Free Disney+ trial (6 months)",
+    "Free Discovery+ trial (6 months)",
+    "Priority access to Verizon Business perks"
+  ],
+
+  "pitchHighlights": {
+    "valueFrame": "$25+ in bundled AppleOne perks",
+    "relevance": "Each line gets perks tailored to usage profile",
+    "futureOpportunity": "Eligible for connected device expansion"
+  },
+
+  "optionsPitch": [
+    {
+      "tier": "High",
+      "name": "Unlimited Ultimate",
+      "totalCost": "$180/month with AutoPay",
+      "value": "Max performance for high-demand lifestyles",
+      "features": [
+        "60GB high-speed hotspot",
+        "5G Ultra Wideband",
+        "10GB premium international data",
+        "Global talk/text in 210+ countries"
+      ],
+      "benefit": "Best for travelers, remote workers, and tech-forward families"
+    },
+    {
+      "tier": "Middle",
+      "name": "Unlimited Plus",
+      "totalCost": "$160/month with AutoPay",
+      "value": "Balanced power and data flexibility",
+      "features": [
+        "30GB high-speed hotspot",
+        "5G Ultra Wideband",
+        "No data deprioritization"
+      ],
+      "benefit": "Ideal for streaming households with professional connectivity needs"
+    },
+    {
+      "tier": "Low",
+      "name": "Unlimited Welcome",
+      "totalCost": "$130/month with AutoPay",
+      "value": "Budget-friendly access and scalable perks",
+      "features": [
+        "Unlimited talk/text/data",
+        "Access to 5G Nationwide",
+        "Optional AppleOne/Disney+ perks"
+      ],
+      "benefit": "Solid for light users and social-focused lifestyles"
+    }
+  ],
+
+  "totalCostBreakdown": {
+    "selectedPlan": "One Unlimited for iPhone",
+    "lines": 2,
+    "baseCost": "$150/month",
+    "devicePromotions": [
+      {
+        "line": "Customer",
+        "device": "iPhone",
+        "promoApplied": true,
+        "savings": "$830"
+      },
+      {
+        "line": "Wife",
+        "device": "iPhone",
+        "promoApplied": true,
+        "savings": "$830"
+      }
+    ],
+    "finalMonthlyCost": "$150/month (includes both lines, with device bill credits applied)"
+  }
+}

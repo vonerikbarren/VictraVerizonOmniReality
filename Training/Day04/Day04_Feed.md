@@ -1,5 +1,16 @@
 # VICTRA.training.Day04_Feed: 
 
+
+# Vocabulary
+
+BOP = Business or Personal.
+ISPU = In store pick-up
+RQ = App("")
+RIS = 
+AAL = 
+
+
+
 *understand what contro is*
 What is contro?
 
@@ -23,6 +34,10 @@ VOCABULARY CONVERSIONS
 03:51:00 - ReheresedPhrase for Staples.PrintCenter.leadsheet_from_db
 04:08:00 - Biz_Funnel_Tools_Explanation ( slide also available )
 04:35:00 - Explanation of Contro
+05:00:00 - Business Discover | After BOP
+05:40:00 - StoryOnCorrectProcess_on_businessLeads_and_Why
+06:24:00 - QuoteTool
+
 
 
 
@@ -188,3 +203,23 @@ R2B Call and Appointment Flow
 
 
 Re-Rating and being good @ QuickMath will give me an advantage.
+
+
+Everything/SubmissionForms
+Skyllfull = ProcessTutorials = ProcessPaths()
+
+
+Steps_to_Close
+    Overcome_objections
+    Setup_&_Disclosures
+    RIS, Referrals, Reviews
+
+
+Uncover the Objection
+Reframe Objection as Question
+
+
+
+
+
+# QuoteTool = 06:24:00

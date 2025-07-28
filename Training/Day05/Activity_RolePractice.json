@@ -1,0 +1,54 @@
+{
+  "interactionContext": {
+    "location": "Staples Print Center",
+    "representative": "Von’Erik",
+    "customerIntent": "Switching from T-Mobile to Verizon",
+    "carrierOrigin": "T-Mobile",
+    "linesRequested": 2,
+    "devicesRequested": ["iPhone Upgrade", "iPhone Upgrade"]
+  },
+  "userProfiles": [
+    {
+      "name": "Customer",
+      "usage": ["Streaming TV", "Work Meetings", "Mobile Productivity"],
+      "currentPlan": "T-Mobile",
+      "desiredUpgrade": "iPhone",
+      "perksInterest": ["AppleOne", "Hotspot Access"]
+    },
+    {
+      "name": "Wife",
+      "usage": ["Talk", "Text", "Keeping up with Friends & Family"],
+      "currentPlan": "T-Mobile",
+      "desiredUpgrade": "iPhone",
+      "perksInterest": ["Disney+", "AppleOne"]
+    }
+  ],
+  "recommendedPlan": {
+    "name": "One Unlimited for iPhone",
+    "estimatedCost": "$150/month with AutoPay",
+    "perksIncluded": [
+      "Apple Music",
+      "Apple TV+",
+      "Apple Arcade",
+      "iCloud+ (200GB)",
+      "5G Ultra Wideband",
+      "25GB Hotspot per line"
+    ]
+  },
+  "upgradeDetails": {
+    "tradeInEligible": true,
+    "promotionValue": "Up to $830 per line",
+    "activationMethod": ["eSIM", "Physical SIM"]
+  },
+  "additionalBenefits": [
+    "50% off Apple Watch or iPad line",
+    "Free Disney+ trial (6 months)",
+    "Free Discovery+ trial (6 months)",
+    "Priority access to Verizon Business perks"
+  ],
+  "pitchHighlights": {
+    "valueFrame": "$25+ in bundled AppleOne perks",
+    "relevance": "Each line gets perks tailored to usage profile",
+    "futureOpportunity": "Eligible for connected device expansion"
+  }
+}

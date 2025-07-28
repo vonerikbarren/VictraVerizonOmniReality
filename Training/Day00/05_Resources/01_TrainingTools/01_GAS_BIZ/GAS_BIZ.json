@@ -1,0 +1,155 @@
+{
+  "GAS_BIZ_Diesel": {
+
+    "status": "in_progress -> better",
+
+    "GREET": {
+      "guestFirstName": "",
+      "reasonForVisit": ""
+    },
+
+    "ALU_DISCOVER": {
+      "tenureAppreciation": true,
+      "businessInternet": true,
+      "discounts": true,
+      "strategicOffers": true,
+      "deviceTypes": [],
+      "AAL_eSIM": true,
+
+      "oldPlanPrice": {
+        "Line01": ["$"],
+        "Line02": ["$"],
+        "Line03": ["$"],
+        "Line04": ["$"],
+        "Line05": ["$"]
+      },
+      "newPlanPrice": {
+        "Line01": ["$"],
+        "Line02": ["$"],
+        "Line03": ["$"],
+        "Line04": ["$"],
+        "Line05": ["$"]
+      },
+      "discountsApplied": {
+        "Line01": ["$"],
+        "Line02": ["$"],
+        "Line03": ["$"],
+        "Line04": ["$"],
+        "Line05": ["$"]
+      },
+      "devicePayment": {
+        "Line01": ["$"],
+        "Line02": ["$"],
+        "Line03": ["$"],
+        "Line04": ["$"],
+        "Line05": ["$"]
+      },
+      "buyoutOrTrade": {
+        "Line01": ["$"],
+        "Line02": ["$"],
+        "Line03": ["$"],
+        "Line04": ["$"],
+        "Line05": ["$"]
+      }
+    },
+    
+
+    "BIZ_PERKS": {
+      "revealOrFleet": true,
+      "oneTalk": true,
+      "mobileProtection": true,
+      "twoPersonIntegritySignOff": true
+    },
+
+    "SAFE_WALK": {
+      "demo3Devices": true,
+      "show5Accessories": true
+    },
+
+    "CLOSE": {
+      "B360Quote": [],
+      "RTG": [],
+      "RQ_InvoiceNumber": [],
+      "leadSubmitted": [],
+      "RIS_Education": [],
+      "convertedControlAndProducts": []
+    },
+
+    "MyBizPlan": {
+      "infoData": {
+        "infoData01": ["$5/mo Military Discount"]
+      },
+      "lines": {
+        "overall": {
+          "features": [
+            "Unlimited Talk, text, and data",
+            "5GB Mobile Hotspot",
+            "Standard Definition Video",
+            "Call Filter",
+            "Canada & Mexico"
+          ]
+        },
+        "pricing": {
+          "1": {
+            "AutoPayTrue": "$65",
+            "AutoPayFalse": "$70"
+          },
+          "2": {
+            "AutoPayTrue": "$55",
+            "AutoPayFalse": "$60"
+          },
+          "3": {
+            "AutoPayTrue": "$40",
+            "AutoPayFalse": "$45"
+          },
+          "4": {
+            "AutoPayTrue": "$34",
+            "AutoPayFalse": "$39"
+          },
+          "5+": {
+            "AutoPayTrue": "$55",
+            "AutoPayFalse": "$60"
+          }
+        }
+      }
+    },
+
+    "BusinessUnlimitedPlans": [
+      {
+        "planName": "Legacy",
+        "price": "$55",
+        "active": true,
+        "features": ["25GB Premium Data", "15GB Mobile Hotspot", "5G Ultra Wideband"]
+      },
+      {
+        "planName": "Legacy",
+        "price": "$50",
+        "active": true,
+        "features": ["22GB Premium Data", "10GB Mobile Hotspot", "5G Nationwide"]
+      },
+      {
+        "planName": "Legacy",
+        "price": "$40",
+        "active": true,
+        "features": ["5Mbps Max Speed", "15GB Mobile Hotspot", "Device Payment Required"]
+      },
+      {
+        "planName": "BasicPhone",
+        "price": "$30",
+        "active": true,
+        "features": ["Unlimited Data", "No Mobile Hotspot", ""]
+      }
+    ],
+
+    "BusinessAddOns": [
+      { "enabled": false, "name": "VMIS Security", "price": "$0" },
+      { "enabled": false, "name": "Unlimited Cloud Storage", "price": "$10" },
+      { "enabled": false, "name": "International Connectivity", "price": "$10" },
+      { "enabled": false, "name": "Premium Network Experience", "price": "$10" },
+      { "enabled": false, "name": "Google Workspace", "price": "$16" },
+      { "enabled": false, "name": "International Long Distance", "price": "$5" },
+      { "enabled": false, "name": "Business Mobile Secure+", "price": "$5" },
+      { "enabled": false, "name": "50GB Mobile Hotspot", "price": "$5" }
+    ]
+  }
+}

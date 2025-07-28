@@ -1,0 +1,94 @@
+{
+  "PromoPatterns_Toolkit": {
+    "ConsumerPromoPatterns": {
+      "description": "Categorized promo logic for residential customers",
+      "patterns": [
+        {
+          "patternType": "Time-Gated Incentives",
+          "examples": ["Holiday bundles", "Seasonal discounts"],
+          "symbolicTags": ["urgencyTrigger", "windowNode"]
+        },
+        {
+          "patternType": "Multi-Line Amplifiers",
+          "examples": ["Add-a-line promo", "Free device on new activation"],
+          "symbolicTags": ["scaleCurve", "groupNode"]
+        },
+        {
+          "patternType": "Device-Driven Triggers",
+          "examples": ["Tablet/wearable perks", "Upgrade bonus"],
+          "symbolicTags": ["gearCatalyst", "hardwareAxis"]
+        },
+        {
+          "patternType": "Plan Enhancers",
+          "examples": ["Plan upgrades unlocking AppleOne", "More hotspot"],
+          "symbolicTags": ["valueLayer", "statusLift"]
+        },
+        {
+          "patternType": "Behavior Rewards",
+          "examples": ["AutoPay perks", "VerizonUp rewards"],
+          "symbolicTags": ["ritualEcho", "loyaltyPulse"]
+        },
+        {
+          "patternType": "Partner Linkage",
+          "examples": ["Disney+, Netflix, Apple Music bundles"],
+          "symbolicTags": ["symbioticNode", "brandBridge"]
+        },
+        {
+          "patternType": "Flash Surprise Offers",
+          "examples": ["Hidden app codes", "Loyalty flash bonuses"],
+          "symbolicTags": ["chaosSeed", "spontaneityLoop"]
+        },
+        {
+          "patternType": "Geo-Specific Offers",
+          "examples": ["Local event tie-ins", "State-level perks"],
+          "symbolicTags": ["territoryMark", "zoneTrigger"]
+        }
+      ]
+    },
+    "BusinessPromoPatterns": {
+      "description": "Categorized promo logic for business accounts and commercial users",
+      "patterns": [
+        {
+          "patternType": "Time-Gated Incentives",
+          "examples": ["Quarterly service bundles", "Tax-season rebates"],
+          "symbolicTags": ["urgencyTrigger", "windowNode"]
+        },
+        {
+          "patternType": "Multi-Line Amplifiers",
+          "examples": ["Bulk line discount", "Tiered pricing for 3+ lines"],
+          "symbolicTags": ["scaleCurve", "groupNode"]
+        },
+        {
+          "patternType": "Device-Driven Triggers",
+          "examples": ["BYOD cash bonus", "Bundled accessories on activation"],
+          "symbolicTags": ["gearCatalyst", "hardwareAxis"]
+        },
+        {
+          "patternType": "Plan Enhancers",
+          "examples": ["Priority support on premium tiers", "Faster data lanes"],
+          "symbolicTags": ["valueLayer", "statusLift"]
+        },
+        {
+          "patternType": "Behavior Rewards",
+          "examples": ["Referral bonuses", "Consistent payment rewards"],
+          "symbolicTags": ["ritualEcho", "loyaltyPulse"]
+        },
+        {
+          "patternType": "Partner Linkage",
+          "examples": ["Microsoft 365 or Slack bundling", "Zoom or Asana credits"],
+          "symbolicTags": ["symbioticNode", "brandBridge"]
+        },
+        {
+          "patternType": "Flash Surprise Offers",
+          "examples": ["Sales rep incentives", "Unannounced pricing adjustments"],
+          "symbolicTags": ["chaosSeed", "spontaneityLoop"]
+        },
+        {
+          "patternType": "Geo-Specific Offers",
+          "examples": ["Regional promotions by ZIP or SIC code", "Industry-specific bonuses"],
+          "symbolicTags": ["territoryMark", "zoneTrigger"]
+        }
+      ]
+    }
+  }
+}

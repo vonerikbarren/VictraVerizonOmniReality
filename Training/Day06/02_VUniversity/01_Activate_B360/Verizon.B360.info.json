@@ -1,0 +1,39 @@
+{
+  "B360Overview": {
+    "purpose": "Quote generation and customer presentation tool for Verizon plans, devices, and accessories",
+    "usageContext": "Used during customer interactions to build, preview, and finalize sales proposals",
+    "keyFunctions": [
+      "Create multi-line quotes",
+      "Apply trade-in promotions",
+      "Bundle accessories and protection plans",
+      "Preview monthly cost breakdown",
+      "Email or print customer-facing quote"
+    ],
+    "workflowSteps": [
+      "selectCustomerType()",
+      "addLinesAndDevices()",
+      "applyPromotionsAndTradeIns()",
+      "bundleAccessoriesAndProtection()",
+      "reviewMonthlyBreakdown()",
+      "finalizeAndSendQuote()"
+    ],
+    "symbolicTriggers": {
+      "quoteReady": "Customer is emotionally aligned and ready to visualize value",
+      "tradeInEcho": "Customer expresses upgrade interest or device fatigue",
+      "bundlePulse": "Accessory or protection interest detected",
+      "costClarity": "Customer asks about monthly breakdown or hidden fees"
+    },
+    "bestPractices": [
+      "Always confirm trade-in eligibility before quoting",
+      "Use symbolic language when presenting accessory bundles",
+      "Preview quote aloud before sending to reinforce value",
+      "Tag emotional triggers during quote review for stronger close"
+    ],
+    "trainingTips": [
+      "Practice building quotes for 1, 2, and 4-line setups",
+      "Run mock scenarios with different plan tiers",
+      "Use B360 to compare Welcome vs. Plus vs. Ultimate visually",
+      "Highlight perks and promotions with symbolic framing"
+    ]
+  }
+}

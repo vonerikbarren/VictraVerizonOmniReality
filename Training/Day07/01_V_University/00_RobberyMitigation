@@ -1,0 +1,114 @@
+# Robbery Mitigation
+- vonerik.barrentucker@victra.com
+
+
+
+# Robbery Prevention Basics
+
+[Do]-Let your GM and DM confirm its charged and position 
+[Dont]-Skip_charging_the_phone_for_several_months
+[DOnt]-Remove_the_tracker_phone_from_the_safe_without_instruction
+[Do]-Store_the_tracker_phone_in_the_safe,_centered_among_other_phones
+[Dont]-Place_the_tracker_separately_from_other_phones
+[Do]-Ensure_the_phone_is_charged_every_3_months_minimum
+[Do]-Keep_it_visually_identifical_to_other_boxed_phones
+
+
+``` json
+
+{
+  "0": "doors auto lock @ 5pm",
+  "1": "Wait for doorbell to ring",
+  "2": "Ask the guest to remove hood/mask",
+  "3": "Explain corporate policy if they refuse",
+  "4": "Contact leadership if they request an exemption",
+  "5": "Deny entry if safety feels threatened",
+  "6": "Notify my manager"
+}
+
+
+```
+
+
+
+# Quiz
+
+
+Question01
+    01_Q
+    \- If you notice that the tracker phone is not charged, what should you do?
+    |
+    01_A
+    \- Notify your General Manager and charge it immediately
+
+
+Question02
+    02_Q
+    \- Jason is new and just finished his first robbery mitigation training. His leader asks him to explain how tracker phones should be handled. Which of these are correct procedures?
+    |
+    02_A
+    \- Charge it every 3 months
+    \- Store it in the safe, hidden among other phones.
+
+
+Question03
+    03_Q
+        \- 
+    03_A
+        \- 
+
+
+
+
+Question04
+    04_Q
+        \- Tyrell is working alone during a 5PM lockdown when someone rings the bell wearing a hoodie and a mask. They refuse to lower either and say they’re “in a rush.” What should Tyrell do?
+    04_A
+        \- Deny entry and explain it’s a corporate safety policy
+
+
+
+Question05
+    05_Q
+        \- Dani just experienced a robbery. The suspect left 5 minutes ago, and Dani is now safe in the back room. What actions should Dani take next? (Select all that apply)
+    05_A
+        \- Call 911
+        \- Secure the building until the police arrive
+        \- Notify RAPM and field leadership
+
+
+Question06
+    06_Q
+        \- Which of the following is the correct protocol for the store safe?
+    06_A
+        \- Keep it locked at all times unless actively in use
+
+
+
+Question07
+    07_Q
+        \- Where should the time delay sticker be placed?
+    07_A
+        \- On the front of the safe in the backroom, clearly visible
+
+
+Question08
+    08_Q
+        \- Carlos has just denied entry to someone who refused to remove their hood. He isn’t sure if he needs to do anything else. What should he do next?
+    08_A
+        \- Notify leadership immediately and document the refusal
+
+
+Question09
+    09_Q
+        \- A robbery has just occurred, and Alana is visibly shaken. The suspect is gone, and a customer is asking her what just happened. What’s the best response?
+    09_A
+        \- “I’m sorry, I can’t share details. I need to notify leadership.”
+
+
+
+Question10
+    10_Q
+        \- What should you check about the tracker phone each day?
+    10_A
+        \- It is charged, stored inside the safe, and not easily identified

@@ -1,0 +1,62 @@
+{
+  "VUTT": {
+    "user": "Von’Erik",
+    "status": "Active",
+    "title": "Verizon University Training Tracker",
+    "goals": {
+      "shortTerm": "",
+      "longTerm": ""
+    },
+    "modules": [
+      {
+        "name": "Spring2025_Mastering_OpenEnrollment_V01",
+        "category": "Online Class",
+        "completionStatus": "not started",
+        "symbolicTag": "undefined",
+        "resources": [],
+        "checkpoints": [],
+        "priority": "",
+        "status": "Active",
+        "timeStarted": "",
+        "timeFinished": "",
+        "numberOfLessons": 0
+      },
+
+      {
+        "name": "",
+        "category": "",
+        "completionStatus": "",
+        "symbolicTag": "",
+        "resources": [],
+        "checkpoints": [],
+        "priority": "",
+        "status": "",
+        "timeStarted": "",
+        "timeFinished": "",
+        "numberOfLessons": 0
+      },
+
+      {
+        "name": "",
+        "category": "",
+        "completionStatus": "",
+        "symbolicTag": "",
+        "resources": [],
+        "checkpoints": [],
+        "priority": "",
+        "status": "",
+        "timeStarted": "",
+        "timeFinished": "",
+        "numberOfLessons": 0
+      }
+    ],
+    "metrics": {
+      "modulesCompleted": 0,
+      "modulesInProgress": 0,
+      "timeRemaining": "",
+      "estimatedCompletion": ""
+    },
+    "emotionalTags": [],
+    "nextActions": []
+  }
+}
